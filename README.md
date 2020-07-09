@@ -3,8 +3,5 @@ This is my first project to create a game in C++ (It's not much but we all have 
 
 ## What I learned
 
-lkajsdbflkjnsdbflkjhansdblfkjh
+I have gained experience in working with random numbers, and random seed.
 
-## Git on my Mac
-
-today have managed to get git work on mac as well.
